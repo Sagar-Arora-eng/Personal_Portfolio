@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.850b8b65.css",
-    "main.js": "/static/js/main.4e9adb04.js",
-    "static/media/bg-texture.PNG": "/static/media/bg-texture.c237636206dabdb7ea5a.PNG",
-    "static/media/Sagar Arora Resume.pdf": "/static/media/Sagar Arora Resume.09d7cdf828f07319afbf.pdf",
-    "static/media/Sagar.PNG": "/static/media/Sagar.c4d8bd936d931a0bb6d2.PNG",
-    "index.html": "/index.html",
-    "main.850b8b65.css.map": "/static/css/main.850b8b65.css.map",
-    "main.4e9adb04.js.map": "/static/js/main.4e9adb04.js.map"
+    "main.css": "/Personal_Portfolio/static/css/main.06b0fb49.css",
+    "main.js": "/Personal_Portfolio/static/js/main.25700082.js",
+    "static/media/bg-texture.PNG": "/Personal_Portfolio/static/media/bg-texture.c237636206dabdb7ea5a.PNG",
+    "static/media/Sagar Arora Resume.pdf": "/Personal_Portfolio/static/media/Sagar Arora Resume.09d7cdf828f07319afbf.pdf",
+    "static/media/Sagar.PNG": "/Personal_Portfolio/static/media/Sagar.c4d8bd936d931a0bb6d2.PNG",
+    "index.html": "/Personal_Portfolio/index.html",
+    "main.06b0fb49.css.map": "/Personal_Portfolio/static/css/main.06b0fb49.css.map",
+    "main.25700082.js.map": "/Personal_Portfolio/static/js/main.25700082.js.map"
   },
   "entrypoints": [
-    "static/css/main.850b8b65.css",
-    "static/js/main.4e9adb04.js"
+    "static/css/main.06b0fb49.css",
+    "static/js/main.25700082.js"
   ]
 }
